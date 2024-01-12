@@ -1,1 +1,1 @@
-**Six Sigma Minitab Projects**
+*Six Sigma Minitab Projects*
